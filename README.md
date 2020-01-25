@@ -6,9 +6,9 @@ These are aditionnal resources to the theoritical materials from
 
 * [Richard S. Sutton and Andrew G. Barto's Reinforcement Learning book (2nd edition)](http://incompleteideas.net/book/RLbook2018.pdf)
 
-# Table of contents
+### Table of contents
 
-## 1. Tabular solution methods
+#### 1. Tabular solution methods
 
 * [ ] Multi-armed bandits
 * [ ] Monte Carlo methods
