@@ -8,7 +8,7 @@ All code is written in Python 3.6+. Some environments are provided by [OpenAI Gy
 
 #### 1. Tabular solution methods
 
-* [ ] Multi-armed bandits
-* [ ] Multi-armed contextual bandits
-* [ ] Monte Carlo Tree Search
-* [x] [Temporal-Difference Learning](https://github.com/ml-is-the-new-cool/reinforcement-learning/tree/master/TD-learning)
+* [x] [Multi-armed bandits](https://github.com/ml-is-the-new-cool/ml-reinforcement-learning/tree/master/1-Multi-armed-bandits)
+* [x] [Multi-armed contextual bandits](https://github.com/ml-is-the-new-cool/ml-reinforcement-learning/tree/master/2-Multi-armed-contextual-bandits)
+* [x] [Monte Carlo Tree Search](https://github.com/ml-is-the-new-cool/ml-reinforcement-learning/tree/master/3-MCTS)
+* [x] [Temporal-Difference Learning](https://github.com/ml-is-the-new-cool/reinforcement-learning/tree/master/3-TD-learning)
