@@ -9,5 +9,6 @@ All code is written in Python 3.6+. Some environments are provided by [OpenAI Gy
 #### 1. Tabular solution methods
 
 * [ ] Multi-armed bandits
-* [ ] Monte Carlo methods
+* [ ] Multi-armed contextual bandits
+* [ ] Monte Carlo Tree Search
 * [x] [Temporal-Difference Learning](https://github.com/ml-is-the-new-cool/reinforcement-learning/tree/master/TD-learning)
