@@ -1,6 +1,6 @@
 # Reinforcement Learning (RL)
 
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/mlisthenewcool/ml-reinforcement-learning.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mlisthenewcool/ml-reinforcement-learning/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/mlisthenewcool/ml-reinforcement-learning.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mlisthenewcool/ml-reinforcement-learning/context:python)
 
 This repository provides code, links and reflexions of various methods to learn from interaction in order to achieve goals. Ideas and structure relies heavily on theoretical materials from [Richard S. Sutton and Andrew G. Barto's Reinforcement Learning book (2nd edition)](http://incompleteideas.net/book/RLbook2018.pdf).
 
